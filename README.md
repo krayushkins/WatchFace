@@ -6,6 +6,7 @@
 - minimal_two (Amazfit Balance):
 [preview](https://github.com/krayushkins/krayushkins.github.io/blob/main/Preview/Preview_1.gif); [download ZPK](https://github.com/krayushkins/krayushkins.github.io/blob/main/minimal_two.zpk); [installation by QR](https://github.com/krayushkins/krayushkins.github.io/blob/main/QR/QR_code_1.png);
 - minimal_two_v.2 (Amazfit Balance):
+[preview](https://github.com/krayushkins/krayushkins.github.io/blob/main/Preview/Preview_v2.gif); [download ZPK](https://github.com/krayushkins/krayushkins.github.io/blob/main/minimal_two_v2.zpk); [installation by QR](https://github.com/krayushkins/krayushkins.github.io/blob/main/QR/QR-Code_v2.png);
 
 
 Инструкция по установки циферблата на часы:
